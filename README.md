@@ -7,13 +7,13 @@
 - ⚡ Fun fact: I read for a living.
 - SKILLS
 - 📊 Data Analysis
-📈 Data Visualization
-💻 Python
-📉 Power BI
-🎨 Tableau
-📊 SPSS
-📊 STATA
-📊 R Programming
+- 📈 Data Visualization
+- 💻 Python
+- 📉 Power BI
+- 🎨 Tableau
+- 📊 SPSS
+- 📊 STATA
+- 📊 R Programming
 
 <!---
 TrizaNaikuni/TrizaNaikuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
