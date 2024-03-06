@@ -8,6 +8,7 @@
 - SKILLS
 - 📊 Data Analysis
 - 📈 Data Visualization
+- 💻 Excel
 - 💻 Python
 - 📉 Power BI
 - 🎨 Tableau
