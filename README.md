@@ -9,6 +9,7 @@
 - 📊 Data Analysis
 - 📈 Data Visualization
 - 💻 Excel
+- 💻MySQL
 - 💻 Python
 - 📉 Power BI
 - 🎨 Tableau
